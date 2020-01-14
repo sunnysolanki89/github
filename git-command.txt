@@ -1,0 +1,8 @@
+1. git init
+2. git status
+3. git add . (all) or git add filename.extension
+4. git commit -m "your custom msg"
+5. Create repo in git website
+6. copy repo link provided by git (https://github.com/sunnysolanki89/github.git)
+7. git remote add origin "url to repo"
+8.
