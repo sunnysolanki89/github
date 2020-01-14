@@ -1,8 +1,14 @@
 1. git init
 2. git status
-3. git add . (all) or git add filename.extension
-4. git commit -m "your custom msg"
-5. Create repo in git website
-6. copy repo link provided by git (https://github.com/sunnysolanki89/github.git)
-7. git remote add origin "url to repo"
-8.
+3. git add . (all) or git add filename.extension (whenever u update)
+4. git commit -m "your custom msg" (whenever u update)
+5. Create repo in git website (one time)
+6. copy repo link provided by git (https://github.com/sunnysolanki89/github.git) (one time)
+7. git remote add origin "url to repo" (one time)
+8. git push origin master (whenever u update)
+
+To Clone 
+1. Copy link from github website (Clone or download button)
+2. Create project folder
+3. git Clone https://github.com/sunnysolanki89/github.git
+4. 
